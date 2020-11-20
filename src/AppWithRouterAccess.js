@@ -21,15 +21,15 @@ export default withRouter(class AppWithRouterAccess extends Component {
   render() {
 
     return (
-        <Security issuer='{issuer}'
-                  clientId='{clientId}'
+        <Security issuer={`${process.env.REACT_APP_OKTA_ORG_URL}/oauth2/default`}
+                  clientId={process.env.REACT_APP_OKTA_CLIENT_ID}
                   redirectUri={window.location.origin + '/login/callback'}
-                  onAuthRequired={this.onAuthRequired} >
+                  onAuthRequired={this.onAuthRequired}>
           <NavigationBar />
           <Container>
           <Route path='/' exact={true} component={Home} />
           <SecureRoute path='/dashboard' component={Dashboard} />
-          <Route path='/login' render={() => <Login baseUrl='{yourOktaDomain}' />} />
+          <Route path='/login' render={() => <Login baseUrl={process.env.REACT_APP_OKTA_ORG_URL} />} />
           <Route path='/login/callback' component={LoginCallback} />
           </Container>
         </Security>
