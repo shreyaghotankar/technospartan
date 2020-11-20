@@ -3,8 +3,8 @@
 ## Environment variable setup
 Create a '.env.local' file in your project root directory.
 Add following variables -
-REACT_APP_OKTA_CLIENT_ID={yourClientId}
-REACT_APP_OKTA_ORG_URL=https://{yourOktaDomain}
+* REACT_APP_OKTA_CLIENT_ID={yourClientId}
+* REACT_APP_OKTA_ORG_URL=https://{yourOktaDomain}
 
 Use these varaibles in AppWithRouterAccess.js
 
