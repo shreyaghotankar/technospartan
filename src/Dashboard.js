@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import tableau from 'tableau-api';
 
-const url = "";
 
 class Dashboard extends Component {
 	constructor(props){
@@ -25,13 +24,13 @@ class Dashboard extends Component {
 		}
 		
 		const vizContainer = this.vizContainer;
-		this.div = new window.tableau.Viz(vizContainer, url, options);
+		this.div = new window.tableau.Viz(vizContainer, process.env.REACT_APP_TABLEAU_URL, options);
 	}
 
 	render(){
 		return(
 		<div>
-		<button onClick ={this.handleBack}>Back</button>
+		<button onClick ={this.handleBack}>Back</button><br/>
 		<div ref = {div => this.vizContainer = div}>
 		</div>
 		</div>
