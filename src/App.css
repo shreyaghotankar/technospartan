@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+ #navbar{
+   color: red;
+   font-size: 23px;
+ }
+
+ #color-nav{
+  background: linear-gradient(170deg, deepskyblue, darkturquoise 80%);
+ }
+
