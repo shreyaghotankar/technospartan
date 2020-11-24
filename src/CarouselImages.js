@@ -2,13 +2,13 @@ import React, { Component } from 'react';
 import Carousel from 'react-bootstrap/Carousel'
 import "bootstrap/dist/css/bootstrap.min.css";
 import Container from 'react-bootstrap/Container';
-import info1 from './images/Covid_knowabout.PNG';
+import info1 from './images/Covid_knowabout.png';
 import info2 from './images/Covid_spread.png';
 import info3 from './images/Covid_protect.png';
-import info4 from './images/Covid_socialdistancing.PNG';
-import info5 from './images/Covid_ifsick.PNG';
-import info6 from './images/Covid_severeill.PNG';
-import stats from './images/Covid_cases.PNG';
+import info4 from './images/Covid_socialdistancing.png';
+import info5 from './images/Covid_ifsick.png';
+import info6 from './images/Covid_severeill.png';
+import stats from './images/Covid_cases.png';
   
 export class CarouselImages extends Component {  
         render() {  
