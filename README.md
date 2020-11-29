@@ -1,6 +1,15 @@
 # Cloud Project
 
 ## University : [San Jose State University](http://www.sjsu.edu/)
+## Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html)
+## Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
+## Team :
+Student Name  
+-------------
+Parvathi Pai
+Shreya Ghotankar
+Sania Gonsalves
+
 
 ## Environment variable setup
 Create a '.env.local' file in your project root directory.
