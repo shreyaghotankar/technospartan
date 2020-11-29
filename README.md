@@ -17,6 +17,9 @@ Our web application provides following visualizations –
 *	Real-time COVID-19 new cases, new deaths
 *	Predicted Deaths
 
+### Architecture
+![](screenshots/architecture.png)
+
 #### Pre-requisite
 AWS resources:
 * For COVID-19 data
@@ -28,9 +31,9 @@ AWS resources:
    * Amazon MSK
    * AWS Glue Database
    * AWS Glue Crawler
-     * Amazon Redshift
- * Tableau Server
- * Okta - Single Page Application
+   * Amazon Redshift
+* Tableau Server
+* Okta - Single Page Application
 
 #### Install Dependencies
 `npm install`
