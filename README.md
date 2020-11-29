@@ -1,6 +1,6 @@
 # Cloud Project
 
-## University : [San Jose State University]( http://www.sjsu.edu/ “link”)
+## University : [San Jose State University](http://www.sjsu.edu/)
 
 ## Environment variable setup
 Create a '.env.local' file in your project root directory.
