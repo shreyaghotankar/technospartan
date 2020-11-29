@@ -20,15 +20,15 @@ Our web application provides following visualizations –
 #### Pre-requisite
 AWS resources:
 * For COVID-19 data
-              * AWS Glue Data Catalog
-              * Amazon Athena 
-              * AWS S3 bucket to save Athena queries
+    * AWS Glue Data Catalog
+    * Amazon Athena 
+    * AWS S3 bucket to save Athena queries
 * For Twitter data stream
-              * Amazon EC2
-              * Amazon MSK
-              * AWS Glue Database
-              * AWS Glue Crawler
-              * Amazon Redshift
+   * Amazon EC2
+   * Amazon MSK
+   * AWS Glue Database
+   * AWS Glue Crawler
+     * Amazon Redshift
  * Tableau Server
  * Okta - Single Page Application
 
