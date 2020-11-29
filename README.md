@@ -6,9 +6,9 @@
 ## Team :
 Student Name      | 
 -------------     |
-Parvathi Pai      |
-Shreya Ghotankar  |
-Sania Gonsalves   |
+[Parvathi Pai](https://www.linkedin.com/in/parvathipai/)      |
+[Shreya Ghotankar](https://www.linkedin.com/in/shreya-ghotankar/)  |
+[Sania Gonsalves](https://www.linkedin.com/in/sania-gonsalves-8b961962/)   |
 
 
 ## Environment variable setup
