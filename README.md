@@ -4,11 +4,11 @@
 ## Course: [Cloud Technologies](http://info.sjsu.edu/web-dbgen/catalog/courses/CMPE281.html)
 ## Professor: [Sanjay Garje](https://www.linkedin.com/in/sanjaygarje/)
 ## Team :
-Student Name  
--------------
-Parvathi Pai     |
-Shreya Ghotankar |
-Sania Gonsalves  |
+Student Name      | 
+-------------     |
+Parvathi Pai      |
+Shreya Ghotankar  |
+Sania Gonsalves   |
 
 
 ## Environment variable setup
