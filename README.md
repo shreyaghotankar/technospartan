@@ -20,6 +20,15 @@ Our web application provides following visualizations –
 ### Architecture
 ![](screenshots/architecture.png)
 
+#### Application UI screenshots
+![](screenshots/welcome.png)
+
+![](screenshots/login.png)
+
+![](screenshots/userloggedin.png)
+
+![](screenshots/dashboard.png)
+
 #### Pre-requisite
 AWS resources:
 * For COVID-19 data
