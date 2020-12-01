@@ -29,7 +29,7 @@ Our web application provides following visualizations –
 
 ![](screenshots/dashboard.png)
 
-##### [Demo Link](https://drive.google.com/file/d/1m6JtMwWU1Mz5kxaf2l254i2ewR6bOy9Y/view?usp=sharing)
+#### [Demo Link](https://drive.google.com/file/d/1m6JtMwWU1Mz5kxaf2l254i2ewR6bOy9Y/view?usp=sharing)
 
 #### Pre-requisite
 AWS resources:
